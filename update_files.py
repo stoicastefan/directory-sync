@@ -1,26 +1,31 @@
 import os
 import shutil
+from logger import Logger
 
 
 class UpdateFiles:
 
     @staticmethod
+    def create_log(message):
+        logger = Logger()
+        logger.create_info_log(message)
+
+    @staticmethod
     def copy_file(source_path, destination_path, file_name):
-        print(file_name)
+        message = f"Copy file {source_path}/{file_name} to {destination_path}/{file_name}"
+        UpdateFiles.create_log(message)
 
         UpdateFiles.delete_file_if_exists(destination_path + "/" + file_name)
 
-
         src_path = source_path + "/" + file_name
         dst_path = destination_path + "/" + file_name
-        print(src_path + " VS " + dst_path)
 
         shutil.copy(src_path, dst_path)
 
-
     @staticmethod
     def copy_directory(source_dir, destination_dir):
-        print(source_dir + " VS " + destination_dir)
+        message = f"Copy directory {source_dir} to {destination_dir}"
+        UpdateFiles.create_log(message)
 
         shutil.rmtree(destination_dir, ignore_errors=True)
         shutil.copytree(source_dir, destination_dir)
@@ -30,6 +35,9 @@ class UpdateFiles:
         try:
             if os.path.exists(path_to_file):
                 os.remove(path_to_file)
+
+                message = f"Delete file {path_to_file}"
+                UpdateFiles.create_log(message)
         except PermissionError:
             shutil.rmtree(path_to_file)
 
@@ -38,5 +46,3 @@ class UpdateFiles:
         for file in files:
             path_to_file = f"{directory_path}/{file.name}"
             UpdateFiles.delete_file_if_exists(path_to_file)
-
-

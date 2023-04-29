@@ -981,3 +981,139 @@
 2023-04-29 20:45:04,105 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
 2023-04-29 20:45:04,106 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
 2023-04-29 20:45:11,119 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica/folder - Copy
+2023-04-29 21:23:19,112 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 21:23:19,113 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 21:23:19,114 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 21:23:19,114 [INFO] Copy file C:/Users/Stoica/Desktop/source/linux.txt to C:/Users/Stoica/Desktop/replica/linux.txt
+2023-04-29 21:23:19,115 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 21:23:19,116 [INFO] Copy file C:/Users/Stoica/Desktop/source/posible questions java interview.txt to C:/Users/Stoica/Desktop/replica/posible questions java interview.txt
+2023-04-29 21:23:19,117 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 21:23:19,117 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 21:23:19,160 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 21:23:19,161 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 21:23:33,810 [INFO] Delete file C:/Users/Stoica/Desktop/replica/linux.txt
+2023-04-29 21:31:43,741 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/174857.png to C:/Users/Stoica/Desktop/replica/folder/174857.png
+2023-04-29 21:31:43,741 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/9-2-linkedin-free-download-png.png to C:/Users/Stoica/Desktop/replica/folder/9-2-linkedin-free-download-png.png
+2023-04-29 21:31:43,742 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/folder/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 21:31:43,743 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder/folder - Copy to C:/Users/Stoica/Desktop/replica/folder/folder - Copy
+2023-04-29 21:31:43,753 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/IntelliJ IDEA Community Edition 2023.1.lnk to C:/Users/Stoica/Desktop/replica/folder/IntelliJ IDEA Community Edition 2023.1.lnk
+2023-04-29 21:31:43,753 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/interview python.txt to C:/Users/Stoica/Desktop/replica/folder/interview python.txt
+2023-04-29 21:31:43,754 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/folder/ISTQB EXAM.txt
+2023-04-29 21:31:43,755 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/java notes.txt to C:/Users/Stoica/Desktop/replica/folder/java notes.txt
+2023-04-29 21:31:43,756 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/posible questions java interview.txt to C:/Users/Stoica/Desktop/replica/folder/posible questions java interview.txt
+2023-04-29 21:31:43,756 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/python interview.txt to C:/Users/Stoica/Desktop/replica/folder/python interview.txt
+2023-04-29 21:31:43,756 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/seriale.txt to C:/Users/Stoica/Desktop/replica/folder/seriale.txt
+2023-04-29 21:31:43,757 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/sql.txt to C:/Users/Stoica/Desktop/replica/folder/sql.txt
+2023-04-29 21:31:43,758 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/UiPath Studio.lnk to C:/Users/Stoica/Desktop/replica/folder/UiPath Studio.lnk
+2023-04-29 21:31:43,759 [INFO] Copy file C:/Users/Stoica/Desktop/source/folder/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/folder/what_does_qa_stand_for.png
+2023-04-29 21:32:44,237 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 21:32:58,845 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 21:33:35,692 [INFO] Delete file C:/Users/Stoica/Desktop/replica/src7.zip
+2023-04-29 21:37:10,173 [INFO] Copy file C:/Users/Stoica/Desktop/source/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 21:37:10,179 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 21:37:10,180 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 21:37:10,181 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 21:37:10,181 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 21:37:10,182 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 21:37:10,183 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 21:37:10,226 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 21:37:10,227 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 21:49:51,745 [INFO] Copy directory C:/Users/Stoica/Desktop/source/pythonProject to C:/Users/Stoica/Desktop/replica/pythonProject
+2023-04-29 21:50:06,300 [INFO] Copy directory C:/Users/Stoica/Desktop/source/pythonProject/directory-sync/Lib/site-packages/setuptools-63.2.0.dist-info to C:/Users/Stoica/Desktop/replica/pythonProject/directory-sync/Lib/site-packages/setuptools-63.2.0.dist-info
+2023-04-29 21:50:06,323 [INFO] Copy directory C:/Users/Stoica/Desktop/source/pythonProject/directory-sync/Lib/site-packages/_distutils_hack to C:/Users/Stoica/Desktop/replica/pythonProject/directory-sync/Lib/site-packages/_distutils_hack
+2023-04-29 21:50:06,331 [INFO] Copy directory C:/Users/Stoica/Desktop/source/pythonProject/directory-sync/Scripts to C:/Users/Stoica/Desktop/replica/pythonProject/directory-sync/Scripts
+2023-04-29 22:00:03,705 [INFO] Copy file C:/Users/Stoica/Desktop/source/9-2-linkedin-free-download-png.png to C:/Users/Stoica/Desktop/replica/9-2-linkedin-free-download-png.png
+2023-04-29 22:00:03,707 [INFO] Copy file C:/Users/Stoica/Desktop/source/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 22:00:03,708 [INFO] Copy file C:/Users/Stoica/Desktop/source/FIFA19 - Shortcut.lnk to C:/Users/Stoica/Desktop/replica/FIFA19 - Shortcut.lnk
+2023-04-29 22:00:03,709 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:00:32,213 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:01:39,441 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica
+2023-04-29 22:01:39,443 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica
+2023-04-29 22:01:39,452 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 22:01:39,452 [INFO] Delete file C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 22:01:39,453 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 22:01:39,453 [INFO] Delete file C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 22:01:39,454 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 22:01:39,455 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 22:01:39,455 [INFO] Copy file C:/Users/Stoica/Desktop/source/posible questions java interview.txt to C:/Users/Stoica/Desktop/replica/posible questions java interview.txt
+2023-04-29 22:01:39,456 [INFO] Delete file C:/Users/Stoica/Desktop/replica/posible questions java interview.txt
+2023-04-29 22:01:39,456 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 22:01:39,457 [INFO] Delete file C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 22:01:39,457 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 22:01:39,500 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 22:01:39,501 [INFO] Delete file C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 22:01:39,502 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 22:01:39,502 [INFO] Delete file C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 22:01:46,516 [INFO] Copy file C:/Users/Stoica/Desktop/source/FIFA19 - Shortcut.lnk to C:/Users/Stoica/Desktop/replica/FIFA19 - Shortcut.lnk
+2023-04-29 22:01:46,517 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica
+2023-04-29 22:01:46,527 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica
+2023-04-29 22:01:57,360 [INFO] Copy file C:/Users/Stoica/Desktop/source/FIFA19 - Shortcut.lnk to C:/Users/Stoica/Desktop/replica/FIFA19 - Shortcut.lnk
+2023-04-29 22:01:57,361 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:02:09,021 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:03:33,918 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:03:33,920 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica/folder - Copy
+2023-04-29 22:03:33,929 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 22:03:33,930 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 22:03:33,943 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 22:03:33,994 [INFO] Delete file C:/Users/Stoica/Desktop/replica/174857.png
+2023-04-29 22:03:33,995 [INFO] Delete file C:/Users/Stoica/Desktop/replica/cv.txt
+2023-04-29 22:03:33,995 [INFO] Delete file C:/Users/Stoica/Desktop/replica/IntelliJ IDEA Community Edition 2023.1.lnk
+2023-04-29 22:03:33,996 [INFO] Delete file C:/Users/Stoica/Desktop/replica/interview python.txt
+2023-04-29 22:03:33,996 [INFO] Delete file C:/Users/Stoica/Desktop/replica/linux.txt
+2023-04-29 22:03:33,996 [INFO] Delete file C:/Users/Stoica/Desktop/replica/seriale.txt
+2023-04-29 22:03:33,996 [INFO] Delete file C:/Users/Stoica/Desktop/replica/the project.txt
+2023-04-29 22:03:33,997 [INFO] Delete file C:/Users/Stoica/Desktop/replica/UiPath Studio.lnk
+2023-04-29 22:04:15,036 [INFO] Copy file C:/Users/Stoica/Desktop/source/9-2-linkedin-free-download-png.png to C:/Users/Stoica/Desktop/replica/9-2-linkedin-free-download-png.png
+2023-04-29 22:04:15,037 [INFO] Copy file C:/Users/Stoica/Desktop/source/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 22:04:15,038 [INFO] Copy file C:/Users/Stoica/Desktop/source/FIFA19 - Shortcut.lnk to C:/Users/Stoica/Desktop/replica/FIFA19 - Shortcut.lnk
+2023-04-29 22:04:15,039 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:04:15,041 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica/folder - Copy
+2023-04-29 22:04:15,051 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 22:04:15,051 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 22:04:15,052 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 22:04:15,053 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 22:04:15,053 [INFO] Copy file C:/Users/Stoica/Desktop/source/posible questions java interview.txt to C:/Users/Stoica/Desktop/replica/posible questions java interview.txt
+2023-04-29 22:04:15,054 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 22:04:15,055 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 22:04:15,097 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 22:04:15,098 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 22:04:22,106 [INFO] Copy file C:/Users/Stoica/Desktop/source/9-2-linkedin-free-download-png.png to C:/Users/Stoica/Desktop/replica/9-2-linkedin-free-download-png.png
+2023-04-29 22:04:22,107 [INFO] Copy file C:/Users/Stoica/Desktop/source/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 22:04:22,109 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:04:22,110 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica/folder - Copy
+2023-04-29 22:04:22,119 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 22:04:22,120 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 22:04:22,120 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 22:04:22,121 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 22:04:22,123 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 22:04:22,124 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 22:04:22,164 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 22:04:22,165 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 22:04:29,167 [INFO] Copy file C:/Users/Stoica/Desktop/source/9-2-linkedin-free-download-png.png to C:/Users/Stoica/Desktop/replica/9-2-linkedin-free-download-png.png
+2023-04-29 22:04:29,169 [INFO] Copy file C:/Users/Stoica/Desktop/source/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 22:04:29,170 [INFO] Copy file C:/Users/Stoica/Desktop/source/FIFA19 - Shortcut.lnk to C:/Users/Stoica/Desktop/replica/FIFA19 - Shortcut.lnk
+2023-04-29 22:04:29,171 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:04:29,172 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica/folder - Copy
+2023-04-29 22:04:29,181 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 22:04:29,182 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 22:04:29,182 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 22:04:29,183 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 22:04:29,184 [INFO] Copy file C:/Users/Stoica/Desktop/source/posible questions java interview.txt to C:/Users/Stoica/Desktop/replica/posible questions java interview.txt
+2023-04-29 22:04:29,184 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 22:04:29,185 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 22:04:29,225 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 22:04:29,226 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png
+2023-04-29 22:05:49,387 [INFO] Copy file C:/Users/Stoica/Desktop/source/9-2-linkedin-free-download-png.png to C:/Users/Stoica/Desktop/replica/9-2-linkedin-free-download-png.png
+2023-04-29 22:05:49,388 [INFO] Copy file C:/Users/Stoica/Desktop/source/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg to C:/Users/Stoica/Desktop/replica/b3c400dd-e38c-46b2-b537-ceb9976c113d.jpg
+2023-04-29 22:05:49,389 [INFO] Copy file C:/Users/Stoica/Desktop/source/FIFA19 - Shortcut.lnk to C:/Users/Stoica/Desktop/replica/FIFA19 - Shortcut.lnk
+2023-04-29 22:05:49,390 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder to C:/Users/Stoica/Desktop/replica/folder
+2023-04-29 22:05:49,391 [INFO] Copy directory C:/Users/Stoica/Desktop/source/folder - Copy to C:/Users/Stoica/Desktop/replica/folder - Copy
+2023-04-29 22:05:49,401 [INFO] Copy file C:/Users/Stoica/Desktop/source/ISTQB EXAM.txt to C:/Users/Stoica/Desktop/replica/ISTQB EXAM.txt
+2023-04-29 22:05:49,401 [INFO] Copy file C:/Users/Stoica/Desktop/source/java notes.txt to C:/Users/Stoica/Desktop/replica/java notes.txt
+2023-04-29 22:05:49,402 [INFO] Copy file C:/Users/Stoica/Desktop/source/LibreOffice 7.4.lnk to C:/Users/Stoica/Desktop/replica/LibreOffice 7.4.lnk
+2023-04-29 22:05:49,403 [INFO] Copy file C:/Users/Stoica/Desktop/source/MongoDBCompass.lnk to C:/Users/Stoica/Desktop/replica/MongoDBCompass.lnk
+2023-04-29 22:05:49,403 [INFO] Copy file C:/Users/Stoica/Desktop/source/posible questions java interview.txt to C:/Users/Stoica/Desktop/replica/posible questions java interview.txt
+2023-04-29 22:05:49,404 [INFO] Copy file C:/Users/Stoica/Desktop/source/python interview.txt to C:/Users/Stoica/Desktop/replica/python interview.txt
+2023-04-29 22:05:49,405 [INFO] Copy file C:/Users/Stoica/Desktop/source/smartgit-win-22_1_3.zip to C:/Users/Stoica/Desktop/replica/smartgit-win-22_1_3.zip
+2023-04-29 22:05:49,447 [INFO] Copy file C:/Users/Stoica/Desktop/source/sql.txt to C:/Users/Stoica/Desktop/replica/sql.txt
+2023-04-29 22:05:49,448 [INFO] Copy file C:/Users/Stoica/Desktop/source/what_does_qa_stand_for.png to C:/Users/Stoica/Desktop/replica/what_does_qa_stand_for.png

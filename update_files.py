@@ -11,6 +11,22 @@ class UpdateFiles:
         logger.create_info_log(message)
 
     @staticmethod
+    def move_source_files_to_target(source_file, source_file_path, target_path, source_path):
+        target_file_path = f"{target_path}/{source_file.name}"
+
+        if os.path.isdir(source_file):
+            UpdateFiles.copy_directory(
+                source_file_path,
+                target_file_path
+            )
+        else:
+            UpdateFiles.copy_file(
+                source_path,
+                target_path,
+                source_file.name
+            )
+
+    @staticmethod
     def copy_file(source_path, destination_path, file_name):
         message = f"Copy file {source_path}/{file_name} to {destination_path}/{file_name}"
         UpdateFiles.create_log(message)

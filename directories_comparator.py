@@ -28,17 +28,14 @@ class DirectoriesComparator:
                         is_source_file_present_in_target_file = True
 
             if not is_source_file_present_in_target_file:
-                if os.path.isdir(source_file):
-                    UpdateFiles.copy_directory(
-                        source_file_path,
-                        f"{target_path}/{source_file.name}",
-                    )
-                else:
-                    UpdateFiles.copy_file(
-                        source_path,
-                        target_path,
-                        source_file.name
-                    )
+                UpdateFiles.move_source_files_to_target(
+                    source_file,
+                    source_file_path,
+                    target_path,
+                    source_path
+                )
+
+        # Delete all files that are in target folder but not in source
         UpdateFiles.delete_list_of_files_from_the_same_directory(target_path, target_dir_content)
 
     @staticmethod

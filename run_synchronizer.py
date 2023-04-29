@@ -1,11 +1,11 @@
 import os
 import time
 
-from directories_comparator import DirectoriesComparator
+from directories_synchronizer import DirectoriesSynchronizer
 import argparse
 
 
-class Run:
+class RunSynchronizer:
     @staticmethod
     def get_args_from_command_line():
         parser = argparse.ArgumentParser(description='Arguments for directory sync')
@@ -21,7 +21,7 @@ class Run:
 
     @staticmethod
     def start():
-        args = Run.get_args_from_command_line()
+        args = RunSynchronizer.get_args_from_command_line()
 
         while True:
             if not os.path.isdir(args.source_path):
@@ -32,12 +32,12 @@ class Run:
                 print("Invalid target path.")
                 break
 
-            DirectoriesComparator.compare_directories(args.source_path, args.target_path)
+            DirectoriesSynchronizer.synchronize_directories(args.source_path, args.target_path)
             time.sleep(args.interval)
 
 
 if __name__ == '__main__':
-    Run.start()
+    RunSynchronizer.start()
 
 
 

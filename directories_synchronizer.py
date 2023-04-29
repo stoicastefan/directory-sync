@@ -5,9 +5,9 @@ from scan_directory import ScanDirectory
 from update_files import UpdateFiles
 
 
-class DirectoriesComparator:
+class DirectoriesSynchronizer:
     @staticmethod
-    def compare_directories(source_path, target_path):
+    def synchronize_directories(source_path, target_path):
         source_dir_content = ScanDirectory.get_directory_content(source_path)
         target_dir_content = ScanDirectory.get_directory_content(target_path)
 
@@ -18,12 +18,12 @@ class DirectoriesComparator:
             for target_file in target_dir_content:
                 target_file_path = f"{target_path}/{target_file.name}"
 
-                if DirectoriesComparator.check_if_files_have_the_same_name(source_file, target_file):
+                if DirectoriesSynchronizer.check_if_files_have_the_same_name(source_file, target_file):
                     if os.path.isdir(source_file) and os.path.isdir(target_file):
-                        DirectoriesComparator.compare_directories(source_file_path, target_file_path)
+                        DirectoriesSynchronizer.synchronize_directories(source_file_path, target_file_path)
                         target_dir_content.remove(target_file)
                         is_source_file_present_in_target_file = True
-                    elif DirectoriesComparator.check_if_files_have_the_same_content(source_file, target_file):
+                    elif DirectoriesSynchronizer.check_if_files_have_the_same_content(source_file, target_file):
                         target_dir_content.remove(target_file)
                         is_source_file_present_in_target_file = True
 
@@ -37,13 +37,6 @@ class DirectoriesComparator:
 
         # Delete all files that are in target folder but not in source
         UpdateFiles.delete_list_of_files_from_the_same_directory(target_path, target_dir_content)
-
-    @staticmethod
-    def check_if_files_are_equivalent(file1, file2):
-        if DirectoriesComparator.check_if_files_have_the_same_name(file1, file2):
-            if DirectoriesComparator.check_if_files_have_the_same_content(file1, file2):
-                return True
-        return False
 
     @staticmethod
     def check_if_files_have_the_same_name(file1, file2):

@@ -72,3 +72,13 @@ class TestFunctionality(unittest.TestCase):
         )
 
         self.assertTrue(have_same_content)
+
+    def tearDown(self):
+        source_dir = os.path.join(self.absolute_path, 'source')
+        target_dir = os.path.join(self.absolute_path, 'target')
+
+        if os.path.isdir(source_dir):
+            shutil.rmtree(source_dir)
+
+        if os.path.isdir(target_dir):
+            shutil.rmtree(target_dir)

@@ -102,7 +102,6 @@ class TestDirectoriesSynchronizer(unittest.TestCase):
         source_dir = os.path.join(self.absolute_path, 'source')
         target_dir = os.path.join(self.absolute_path, 'target')
 
-
         if os.path.isdir(source_dir):
             shutil.rmtree(source_dir)
 

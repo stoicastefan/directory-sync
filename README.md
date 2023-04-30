@@ -9,13 +9,15 @@ You need Python version 3.0 or higher .
 # Usage
 The application can be run from the command line using the following command:
 
+```bash
 python run_synchronizer.py --source_path SOURCE_FOLDER --target_path REPLICA_FOLDER --interval NUMBER_OF_SECONDS
-
+```
 Where SOURCE_FOLDER is the path to the source folder, REPLICA_FOLDER is the path to the replica folder and NUMBER_OF_SECONDS is the number of seconds between synchronizations.
 
 # Excemple:
+```bash
 python run_synchronizer.py --source_path C:/Users/Stoica/Desktop/source --target_path C:/Users/Stoica/Desktop/replica --interval 7
-
+```
 
 The program will compare the contents of the two folders and copy any missing or modified files from the source folder to the replica folder. It will also delete any files in the replica folder that are not present in the source folder.
 

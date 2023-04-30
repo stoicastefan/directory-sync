@@ -14,7 +14,7 @@ python run_synchronizer.py --source_path SOURCE_FOLDER --target_path REPLICA_FOL
 ```
 Where SOURCE_FOLDER is the path to the source folder, REPLICA_FOLDER is the path to the replica folder and NUMBER_OF_SECONDS is the number of seconds between synchronizations.
 
-Excemple:
+Example:
 ```bash
 python run_synchronizer.py --source_path C:/Users/Stoica/Desktop/source --target_path C:/Users/Stoica/Desktop/replica --interval 7
 ```

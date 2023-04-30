@@ -2,8 +2,9 @@
 Directory Synchronizer is a Python application that synchronizes two folders: a source folder and a replica folder. The program ensures that the replica folder maintains a full and identical copy of the source folder.
 
 # Installation
-Clone this repository to your local machine
-You need Python version 3.0 or higher 
+Clone this repository to your local machine.
+
+You need Python version 3.0 or higher .
 
 # Usage
 The application can be run from the command line using the following command:

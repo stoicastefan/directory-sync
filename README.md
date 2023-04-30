@@ -30,6 +30,8 @@ Deletes files in the replica folder that are not present in the source folder
 
 Can be run from the command line with easy-to-use arguments
 
+Has a file with logs where you can see all the changes done
+
 
 # Contact
 If you have any questions or concerns about the Folder Synchronizer, please contact the maintainer at stoica.stefan14@yahoo.ro.

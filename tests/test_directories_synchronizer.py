@@ -32,8 +32,6 @@ class TestDirectoriesSynchronizer(unittest.TestCase):
             )
         )
 
-
-
     def test_compare_files_with_different_name(self):
         open(os.path.join(self.source_dir, "test_file1.txt"), 'w').close()
         open(os.path.join(self.target_dir, "test_file2.txt"), 'w').close()

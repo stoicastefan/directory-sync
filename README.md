@@ -23,8 +23,11 @@ The program will compare the contents of the two folders and copy any missing or
 
 # Features
 Synchronizes two folders, maintaining an identical copy of the source folder at the replica folder
+
 Detects and copies new and modified files from the source folder to the replica folder
+
 Deletes files in the replica folder that are not present in the source folder
+
 Can be run from the command line with easy-to-use arguments
 
 
